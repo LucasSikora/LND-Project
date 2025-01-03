@@ -1,1 +1,1 @@
-Files are for the art project on the Living New Deal dataset as part of my reserach assistantship. Datasets are not allowed to be shared publically.
+Files are for the art project on the Living New Deal dataset as part of my research with Dr. Sharon Musher. Datasets are not allowed to be shared publically but the information contained within can be accessed at https://livingnewdeal.org/map/.
